@@ -10,5 +10,3 @@
 ---
 
 ## Executive Canvas View
-
-> **Interactive FinOps Analytics Suite:** Real-time visibility into ARR movement waterfalls, monthly customer cohort net retention curves, SaaS Rule of 40 scoring (54.2%), and audited subscription contracts.
