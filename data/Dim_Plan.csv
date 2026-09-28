@@ -1,0 +1,5 @@
+PlanID,PlanName,Tier,BaseMonthlyRate
+101,Startup Cloud,Standard,499
+102,Business Growth,Professional,1499
+103,Enterprise Core,Enterprise,4999
+104,Hyperscale Dedicated,Enterprise VIP,12500

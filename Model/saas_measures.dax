@@ -1,0 +1,50 @@
+﻿/// -------------------------------------------------------------
+/// B2B SaaS ARR/MRR Metrics & Cohort Retention DAX Library
+/// Spec: Microsoft Fabric PBIP / TMDL Tabular Engine
+/// -------------------------------------------------------------
+
+[Total MRR Booked] = 
+SUM ( Fact_SubscriptionLedger[MonthlyRecurringRevenue] )
+
+[Current ARR] = 
+SUM ( Fact_SubscriptionLedger[AnnualRecurringRevenue] )
+
+[New Business ARR] = 
+CALCULATE (
+    [Current ARR],
+    Fact_SubscriptionLedger[EventType] = "New Business"
+)
+
+[Expansion ARR] = 
+CALCULATE (
+    [Current ARR],
+    Fact_SubscriptionLedger[EventType] = "Expansion"
+)
+
+[Contraction ARR] = 
+CALCULATE (
+    [Current ARR],
+    Fact_SubscriptionLedger[EventType] = "Contraction"
+)
+
+[Churned ARR] = 
+CALCULATE (
+    [Current ARR],
+    Fact_SubscriptionLedger[EventType] = "Churn"
+)
+
+[Net Retention Rate (NRR) %] = 
+VAR _StartingARR = 
+    CALCULATE (
+        [Current ARR],
+        SAMEPERIODLASTYEAR ( Dim_Date[FullDate] )
+    )
+VAR _NetExpansion = [Expansion ARR] + [Contraction ARR] + [Churned ARR]
+RETURN
+    DIVIDE ( _StartingARR + _NetExpansion, _StartingARR, 0 )
+
+[Active Subscribed Accounts] = 
+DISTINCTCOUNT ( Fact_SubscriptionLedger[AccountID] )
+
+[Average Revenue Per Account (ARPA)] = 
+DIVIDE ( [Current ARR], [Active Subscribed Accounts], 0 )

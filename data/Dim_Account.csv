@@ -1,0 +1,401 @@
+AccountID,AccountName,Region,Industry,InitialCohortMonth,AccountExecutive
+ACC_1001,Client Entity 1,LATAM,Cybersecurity,2025-04,exec_2@saasplatform.io
+ACC_1002,Client Entity 2,EMEA,HealthTech,2025-05,exec_3@saasplatform.io
+ACC_1003,Client Entity 3,North America,Cybersecurity,2025-03,exec_4@saasplatform.io
+ACC_1004,Client Entity 4,EMEA,Cybersecurity,2025-05,exec_5@saasplatform.io
+ACC_1005,Client Entity 5,North America,E-Commerce,2025-06,exec_6@saasplatform.io
+ACC_1006,Client Entity 6,North America,E-Commerce,2025-06,exec_7@saasplatform.io
+ACC_1007,Client Entity 7,EMEA,HealthTech,2025-05,exec_8@saasplatform.io
+ACC_1008,Client Entity 8,North America,FinTech,2025-06,exec_9@saasplatform.io
+ACC_1009,Client Entity 9,EMEA,HealthTech,2025-01,exec_10@saasplatform.io
+ACC_1010,Client Entity 10,LATAM,Cybersecurity,2025-04,exec_11@saasplatform.io
+ACC_1011,Client Entity 11,EMEA,FinTech,2025-04,exec_12@saasplatform.io
+ACC_1012,Client Entity 12,APAC,Enterprise AI,2025-03,exec_1@saasplatform.io
+ACC_1013,Client Entity 13,North America,E-Commerce,2025-01,exec_2@saasplatform.io
+ACC_1014,Client Entity 14,LATAM,HealthTech,2025-01,exec_3@saasplatform.io
+ACC_1015,Client Entity 15,North America,Enterprise AI,2025-02,exec_4@saasplatform.io
+ACC_1016,Client Entity 16,APAC,E-Commerce,2025-02,exec_5@saasplatform.io
+ACC_1017,Client Entity 17,EMEA,Cybersecurity,2025-04,exec_6@saasplatform.io
+ACC_1018,Client Entity 18,North America,HealthTech,2025-06,exec_7@saasplatform.io
+ACC_1019,Client Entity 19,North America,HealthTech,2025-04,exec_8@saasplatform.io
+ACC_1020,Client Entity 20,North America,HealthTech,2025-04,exec_9@saasplatform.io
+ACC_1021,Client Entity 21,EMEA,HealthTech,2025-02,exec_10@saasplatform.io
+ACC_1022,Client Entity 22,LATAM,E-Commerce,2025-06,exec_11@saasplatform.io
+ACC_1023,Client Entity 23,LATAM,Enterprise AI,2025-01,exec_12@saasplatform.io
+ACC_1024,Client Entity 24,North America,Enterprise AI,2025-05,exec_1@saasplatform.io
+ACC_1025,Client Entity 25,LATAM,E-Commerce,2025-02,exec_2@saasplatform.io
+ACC_1026,Client Entity 26,North America,Enterprise AI,2025-04,exec_3@saasplatform.io
+ACC_1027,Client Entity 27,North America,FinTech,2025-05,exec_4@saasplatform.io
+ACC_1028,Client Entity 28,North America,Cybersecurity,2025-01,exec_5@saasplatform.io
+ACC_1029,Client Entity 29,APAC,Cybersecurity,2025-03,exec_6@saasplatform.io
+ACC_1030,Client Entity 30,APAC,Enterprise AI,2025-03,exec_7@saasplatform.io
+ACC_1031,Client Entity 31,North America,FinTech,2025-02,exec_8@saasplatform.io
+ACC_1032,Client Entity 32,APAC,E-Commerce,2025-04,exec_9@saasplatform.io
+ACC_1033,Client Entity 33,North America,Enterprise AI,2025-02,exec_10@saasplatform.io
+ACC_1034,Client Entity 34,EMEA,Cybersecurity,2025-03,exec_11@saasplatform.io
+ACC_1035,Client Entity 35,EMEA,Enterprise AI,2025-03,exec_12@saasplatform.io
+ACC_1036,Client Entity 36,APAC,Enterprise AI,2025-06,exec_1@saasplatform.io
+ACC_1037,Client Entity 37,North America,Cybersecurity,2025-02,exec_2@saasplatform.io
+ACC_1038,Client Entity 38,APAC,HealthTech,2025-01,exec_3@saasplatform.io
+ACC_1039,Client Entity 39,EMEA,Cybersecurity,2025-02,exec_4@saasplatform.io
+ACC_1040,Client Entity 40,North America,E-Commerce,2025-01,exec_5@saasplatform.io
+ACC_1041,Client Entity 41,North America,Enterprise AI,2025-06,exec_6@saasplatform.io
+ACC_1042,Client Entity 42,North America,Enterprise AI,2025-03,exec_7@saasplatform.io
+ACC_1043,Client Entity 43,APAC,E-Commerce,2025-03,exec_8@saasplatform.io
+ACC_1044,Client Entity 44,EMEA,FinTech,2025-02,exec_9@saasplatform.io
+ACC_1045,Client Entity 45,APAC,E-Commerce,2025-05,exec_10@saasplatform.io
+ACC_1046,Client Entity 46,North America,Cybersecurity,2025-04,exec_11@saasplatform.io
+ACC_1047,Client Entity 47,North America,FinTech,2025-02,exec_12@saasplatform.io
+ACC_1048,Client Entity 48,North America,FinTech,2025-06,exec_1@saasplatform.io
+ACC_1049,Client Entity 49,EMEA,E-Commerce,2025-03,exec_2@saasplatform.io
+ACC_1050,Client Entity 50,APAC,Cybersecurity,2025-05,exec_3@saasplatform.io
+ACC_1051,Client Entity 51,EMEA,FinTech,2025-01,exec_4@saasplatform.io
+ACC_1052,Client Entity 52,North America,Cybersecurity,2025-03,exec_5@saasplatform.io
+ACC_1053,Client Entity 53,North America,FinTech,2025-06,exec_6@saasplatform.io
+ACC_1054,Client Entity 54,North America,FinTech,2025-04,exec_7@saasplatform.io
+ACC_1055,Client Entity 55,LATAM,HealthTech,2025-02,exec_8@saasplatform.io
+ACC_1056,Client Entity 56,North America,FinTech,2025-03,exec_9@saasplatform.io
+ACC_1057,Client Entity 57,North America,HealthTech,2025-01,exec_10@saasplatform.io
+ACC_1058,Client Entity 58,EMEA,Enterprise AI,2025-02,exec_11@saasplatform.io
+ACC_1059,Client Entity 59,EMEA,HealthTech,2025-01,exec_12@saasplatform.io
+ACC_1060,Client Entity 60,EMEA,E-Commerce,2025-05,exec_1@saasplatform.io
+ACC_1061,Client Entity 61,North America,FinTech,2025-03,exec_2@saasplatform.io
+ACC_1062,Client Entity 62,North America,E-Commerce,2025-06,exec_3@saasplatform.io
+ACC_1063,Client Entity 63,EMEA,Cybersecurity,2025-02,exec_4@saasplatform.io
+ACC_1064,Client Entity 64,North America,Cybersecurity,2025-01,exec_5@saasplatform.io
+ACC_1065,Client Entity 65,APAC,Cybersecurity,2025-06,exec_6@saasplatform.io
+ACC_1066,Client Entity 66,North America,E-Commerce,2025-04,exec_7@saasplatform.io
+ACC_1067,Client Entity 67,APAC,Cybersecurity,2025-03,exec_8@saasplatform.io
+ACC_1068,Client Entity 68,EMEA,E-Commerce,2025-04,exec_9@saasplatform.io
+ACC_1069,Client Entity 69,APAC,HealthTech,2025-01,exec_10@saasplatform.io
+ACC_1070,Client Entity 70,EMEA,FinTech,2025-01,exec_11@saasplatform.io
+ACC_1071,Client Entity 71,North America,HealthTech,2025-01,exec_12@saasplatform.io
+ACC_1072,Client Entity 72,North America,HealthTech,2025-03,exec_1@saasplatform.io
+ACC_1073,Client Entity 73,EMEA,FinTech,2025-01,exec_2@saasplatform.io
+ACC_1074,Client Entity 74,LATAM,E-Commerce,2025-02,exec_3@saasplatform.io
+ACC_1075,Client Entity 75,LATAM,Cybersecurity,2025-05,exec_4@saasplatform.io
+ACC_1076,Client Entity 76,North America,Cybersecurity,2025-01,exec_5@saasplatform.io
+ACC_1077,Client Entity 77,APAC,FinTech,2025-03,exec_6@saasplatform.io
+ACC_1078,Client Entity 78,North America,E-Commerce,2025-04,exec_7@saasplatform.io
+ACC_1079,Client Entity 79,EMEA,Cybersecurity,2025-06,exec_8@saasplatform.io
+ACC_1080,Client Entity 80,LATAM,FinTech,2025-06,exec_9@saasplatform.io
+ACC_1081,Client Entity 81,North America,HealthTech,2025-05,exec_10@saasplatform.io
+ACC_1082,Client Entity 82,APAC,Enterprise AI,2025-02,exec_11@saasplatform.io
+ACC_1083,Client Entity 83,North America,E-Commerce,2025-01,exec_12@saasplatform.io
+ACC_1084,Client Entity 84,EMEA,E-Commerce,2025-01,exec_1@saasplatform.io
+ACC_1085,Client Entity 85,EMEA,FinTech,2025-03,exec_2@saasplatform.io
+ACC_1086,Client Entity 86,EMEA,Enterprise AI,2025-04,exec_3@saasplatform.io
+ACC_1087,Client Entity 87,LATAM,Cybersecurity,2025-03,exec_4@saasplatform.io
+ACC_1088,Client Entity 88,APAC,FinTech,2025-03,exec_5@saasplatform.io
+ACC_1089,Client Entity 89,EMEA,FinTech,2025-04,exec_6@saasplatform.io
+ACC_1090,Client Entity 90,North America,Cybersecurity,2025-05,exec_7@saasplatform.io
+ACC_1091,Client Entity 91,North America,FinTech,2025-04,exec_8@saasplatform.io
+ACC_1092,Client Entity 92,LATAM,Enterprise AI,2025-01,exec_9@saasplatform.io
+ACC_1093,Client Entity 93,LATAM,Cybersecurity,2025-06,exec_10@saasplatform.io
+ACC_1094,Client Entity 94,North America,Enterprise AI,2025-04,exec_11@saasplatform.io
+ACC_1095,Client Entity 95,EMEA,Cybersecurity,2025-01,exec_12@saasplatform.io
+ACC_1096,Client Entity 96,APAC,Enterprise AI,2025-04,exec_1@saasplatform.io
+ACC_1097,Client Entity 97,North America,FinTech,2025-05,exec_2@saasplatform.io
+ACC_1098,Client Entity 98,North America,FinTech,2025-03,exec_3@saasplatform.io
+ACC_1099,Client Entity 99,LATAM,HealthTech,2025-02,exec_4@saasplatform.io
+ACC_1100,Client Entity 100,EMEA,HealthTech,2025-03,exec_5@saasplatform.io
+ACC_1101,Client Entity 101,North America,Cybersecurity,2025-06,exec_6@saasplatform.io
+ACC_1102,Client Entity 102,APAC,FinTech,2025-02,exec_7@saasplatform.io
+ACC_1103,Client Entity 103,North America,Enterprise AI,2025-01,exec_8@saasplatform.io
+ACC_1104,Client Entity 104,APAC,Cybersecurity,2025-02,exec_9@saasplatform.io
+ACC_1105,Client Entity 105,APAC,Enterprise AI,2025-02,exec_10@saasplatform.io
+ACC_1106,Client Entity 106,EMEA,FinTech,2025-04,exec_11@saasplatform.io
+ACC_1107,Client Entity 107,APAC,FinTech,2025-04,exec_12@saasplatform.io
+ACC_1108,Client Entity 108,APAC,E-Commerce,2025-06,exec_1@saasplatform.io
+ACC_1109,Client Entity 109,North America,E-Commerce,2025-03,exec_2@saasplatform.io
+ACC_1110,Client Entity 110,North America,Cybersecurity,2025-02,exec_3@saasplatform.io
+ACC_1111,Client Entity 111,North America,Enterprise AI,2025-01,exec_4@saasplatform.io
+ACC_1112,Client Entity 112,EMEA,FinTech,2025-06,exec_5@saasplatform.io
+ACC_1113,Client Entity 113,North America,Cybersecurity,2025-04,exec_6@saasplatform.io
+ACC_1114,Client Entity 114,North America,Enterprise AI,2025-04,exec_7@saasplatform.io
+ACC_1115,Client Entity 115,North America,Enterprise AI,2025-04,exec_8@saasplatform.io
+ACC_1116,Client Entity 116,APAC,E-Commerce,2025-04,exec_9@saasplatform.io
+ACC_1117,Client Entity 117,EMEA,E-Commerce,2025-06,exec_10@saasplatform.io
+ACC_1118,Client Entity 118,LATAM,HealthTech,2025-05,exec_11@saasplatform.io
+ACC_1119,Client Entity 119,North America,Cybersecurity,2025-06,exec_12@saasplatform.io
+ACC_1120,Client Entity 120,APAC,HealthTech,2025-04,exec_1@saasplatform.io
+ACC_1121,Client Entity 121,North America,FinTech,2025-05,exec_2@saasplatform.io
+ACC_1122,Client Entity 122,EMEA,HealthTech,2025-04,exec_3@saasplatform.io
+ACC_1123,Client Entity 123,North America,HealthTech,2025-02,exec_4@saasplatform.io
+ACC_1124,Client Entity 124,North America,FinTech,2025-06,exec_5@saasplatform.io
+ACC_1125,Client Entity 125,North America,Enterprise AI,2025-05,exec_6@saasplatform.io
+ACC_1126,Client Entity 126,EMEA,Cybersecurity,2025-05,exec_7@saasplatform.io
+ACC_1127,Client Entity 127,EMEA,Cybersecurity,2025-04,exec_8@saasplatform.io
+ACC_1128,Client Entity 128,North America,Enterprise AI,2025-05,exec_9@saasplatform.io
+ACC_1129,Client Entity 129,North America,FinTech,2025-06,exec_10@saasplatform.io
+ACC_1130,Client Entity 130,APAC,E-Commerce,2025-06,exec_11@saasplatform.io
+ACC_1131,Client Entity 131,EMEA,HealthTech,2025-05,exec_12@saasplatform.io
+ACC_1132,Client Entity 132,EMEA,E-Commerce,2025-02,exec_1@saasplatform.io
+ACC_1133,Client Entity 133,EMEA,Enterprise AI,2025-01,exec_2@saasplatform.io
+ACC_1134,Client Entity 134,EMEA,Enterprise AI,2025-02,exec_3@saasplatform.io
+ACC_1135,Client Entity 135,North America,HealthTech,2025-04,exec_4@saasplatform.io
+ACC_1136,Client Entity 136,LATAM,FinTech,2025-02,exec_5@saasplatform.io
+ACC_1137,Client Entity 137,APAC,HealthTech,2025-05,exec_6@saasplatform.io
+ACC_1138,Client Entity 138,APAC,Cybersecurity,2025-01,exec_7@saasplatform.io
+ACC_1139,Client Entity 139,EMEA,HealthTech,2025-04,exec_8@saasplatform.io
+ACC_1140,Client Entity 140,EMEA,FinTech,2025-03,exec_9@saasplatform.io
+ACC_1141,Client Entity 141,EMEA,Enterprise AI,2025-05,exec_10@saasplatform.io
+ACC_1142,Client Entity 142,North America,FinTech,2025-04,exec_11@saasplatform.io
+ACC_1143,Client Entity 143,North America,Enterprise AI,2025-02,exec_12@saasplatform.io
+ACC_1144,Client Entity 144,North America,HealthTech,2025-05,exec_1@saasplatform.io
+ACC_1145,Client Entity 145,North America,Cybersecurity,2025-05,exec_2@saasplatform.io
+ACC_1146,Client Entity 146,EMEA,Enterprise AI,2025-01,exec_3@saasplatform.io
+ACC_1147,Client Entity 147,APAC,HealthTech,2025-02,exec_4@saasplatform.io
+ACC_1148,Client Entity 148,North America,E-Commerce,2025-03,exec_5@saasplatform.io
+ACC_1149,Client Entity 149,APAC,Enterprise AI,2025-02,exec_6@saasplatform.io
+ACC_1150,Client Entity 150,APAC,E-Commerce,2025-03,exec_7@saasplatform.io
+ACC_1151,Client Entity 151,APAC,FinTech,2025-01,exec_8@saasplatform.io
+ACC_1152,Client Entity 152,North America,FinTech,2025-04,exec_9@saasplatform.io
+ACC_1153,Client Entity 153,LATAM,E-Commerce,2025-03,exec_10@saasplatform.io
+ACC_1154,Client Entity 154,North America,Enterprise AI,2025-02,exec_11@saasplatform.io
+ACC_1155,Client Entity 155,EMEA,Enterprise AI,2025-04,exec_12@saasplatform.io
+ACC_1156,Client Entity 156,North America,FinTech,2025-01,exec_1@saasplatform.io
+ACC_1157,Client Entity 157,EMEA,FinTech,2025-01,exec_2@saasplatform.io
+ACC_1158,Client Entity 158,North America,Cybersecurity,2025-06,exec_3@saasplatform.io
+ACC_1159,Client Entity 159,North America,Enterprise AI,2025-01,exec_4@saasplatform.io
+ACC_1160,Client Entity 160,APAC,FinTech,2025-01,exec_5@saasplatform.io
+ACC_1161,Client Entity 161,LATAM,E-Commerce,2025-04,exec_6@saasplatform.io
+ACC_1162,Client Entity 162,EMEA,Enterprise AI,2025-03,exec_7@saasplatform.io
+ACC_1163,Client Entity 163,North America,FinTech,2025-05,exec_8@saasplatform.io
+ACC_1164,Client Entity 164,EMEA,E-Commerce,2025-04,exec_9@saasplatform.io
+ACC_1165,Client Entity 165,APAC,FinTech,2025-05,exec_10@saasplatform.io
+ACC_1166,Client Entity 166,LATAM,HealthTech,2025-05,exec_11@saasplatform.io
+ACC_1167,Client Entity 167,EMEA,Enterprise AI,2025-06,exec_12@saasplatform.io
+ACC_1168,Client Entity 168,LATAM,Cybersecurity,2025-03,exec_1@saasplatform.io
+ACC_1169,Client Entity 169,North America,E-Commerce,2025-03,exec_2@saasplatform.io
+ACC_1170,Client Entity 170,APAC,E-Commerce,2025-01,exec_3@saasplatform.io
+ACC_1171,Client Entity 171,North America,Enterprise AI,2025-01,exec_4@saasplatform.io
+ACC_1172,Client Entity 172,North America,Cybersecurity,2025-02,exec_5@saasplatform.io
+ACC_1173,Client Entity 173,North America,Enterprise AI,2025-02,exec_6@saasplatform.io
+ACC_1174,Client Entity 174,North America,Enterprise AI,2025-05,exec_7@saasplatform.io
+ACC_1175,Client Entity 175,LATAM,FinTech,2025-01,exec_8@saasplatform.io
+ACC_1176,Client Entity 176,EMEA,E-Commerce,2025-01,exec_9@saasplatform.io
+ACC_1177,Client Entity 177,APAC,Cybersecurity,2025-06,exec_10@saasplatform.io
+ACC_1178,Client Entity 178,North America,Cybersecurity,2025-05,exec_11@saasplatform.io
+ACC_1179,Client Entity 179,LATAM,Cybersecurity,2025-02,exec_12@saasplatform.io
+ACC_1180,Client Entity 180,North America,E-Commerce,2025-05,exec_1@saasplatform.io
+ACC_1181,Client Entity 181,North America,E-Commerce,2025-06,exec_2@saasplatform.io
+ACC_1182,Client Entity 182,APAC,FinTech,2025-05,exec_3@saasplatform.io
+ACC_1183,Client Entity 183,EMEA,FinTech,2025-03,exec_4@saasplatform.io
+ACC_1184,Client Entity 184,North America,FinTech,2025-04,exec_5@saasplatform.io
+ACC_1185,Client Entity 185,EMEA,HealthTech,2025-06,exec_6@saasplatform.io
+ACC_1186,Client Entity 186,LATAM,Enterprise AI,2025-04,exec_7@saasplatform.io
+ACC_1187,Client Entity 187,North America,Enterprise AI,2025-05,exec_8@saasplatform.io
+ACC_1188,Client Entity 188,LATAM,E-Commerce,2025-03,exec_9@saasplatform.io
+ACC_1189,Client Entity 189,APAC,FinTech,2025-03,exec_10@saasplatform.io
+ACC_1190,Client Entity 190,North America,FinTech,2025-02,exec_11@saasplatform.io
+ACC_1191,Client Entity 191,North America,FinTech,2025-06,exec_12@saasplatform.io
+ACC_1192,Client Entity 192,APAC,Cybersecurity,2025-05,exec_1@saasplatform.io
+ACC_1193,Client Entity 193,LATAM,HealthTech,2025-01,exec_2@saasplatform.io
+ACC_1194,Client Entity 194,EMEA,E-Commerce,2025-06,exec_3@saasplatform.io
+ACC_1195,Client Entity 195,North America,E-Commerce,2025-05,exec_4@saasplatform.io
+ACC_1196,Client Entity 196,EMEA,HealthTech,2025-04,exec_5@saasplatform.io
+ACC_1197,Client Entity 197,EMEA,E-Commerce,2025-04,exec_6@saasplatform.io
+ACC_1198,Client Entity 198,LATAM,Cybersecurity,2025-05,exec_7@saasplatform.io
+ACC_1199,Client Entity 199,North America,FinTech,2025-06,exec_8@saasplatform.io
+ACC_1200,Client Entity 200,EMEA,Enterprise AI,2025-01,exec_9@saasplatform.io
+ACC_1201,Client Entity 201,North America,Enterprise AI,2025-04,exec_10@saasplatform.io
+ACC_1202,Client Entity 202,North America,HealthTech,2025-06,exec_11@saasplatform.io
+ACC_1203,Client Entity 203,APAC,FinTech,2025-03,exec_12@saasplatform.io
+ACC_1204,Client Entity 204,North America,HealthTech,2025-02,exec_1@saasplatform.io
+ACC_1205,Client Entity 205,North America,FinTech,2025-03,exec_2@saasplatform.io
+ACC_1206,Client Entity 206,APAC,FinTech,2025-06,exec_3@saasplatform.io
+ACC_1207,Client Entity 207,EMEA,FinTech,2025-03,exec_4@saasplatform.io
+ACC_1208,Client Entity 208,APAC,FinTech,2025-06,exec_5@saasplatform.io
+ACC_1209,Client Entity 209,North America,FinTech,2025-05,exec_6@saasplatform.io
+ACC_1210,Client Entity 210,North America,Enterprise AI,2025-03,exec_7@saasplatform.io
+ACC_1211,Client Entity 211,APAC,Enterprise AI,2025-06,exec_8@saasplatform.io
+ACC_1212,Client Entity 212,LATAM,Enterprise AI,2025-05,exec_9@saasplatform.io
+ACC_1213,Client Entity 213,APAC,HealthTech,2025-05,exec_10@saasplatform.io
+ACC_1214,Client Entity 214,North America,Enterprise AI,2025-02,exec_11@saasplatform.io
+ACC_1215,Client Entity 215,North America,FinTech,2025-06,exec_12@saasplatform.io
+ACC_1216,Client Entity 216,North America,E-Commerce,2025-03,exec_1@saasplatform.io
+ACC_1217,Client Entity 217,APAC,HealthTech,2025-06,exec_2@saasplatform.io
+ACC_1218,Client Entity 218,North America,HealthTech,2025-04,exec_3@saasplatform.io
+ACC_1219,Client Entity 219,EMEA,Cybersecurity,2025-02,exec_4@saasplatform.io
+ACC_1220,Client Entity 220,North America,FinTech,2025-03,exec_5@saasplatform.io
+ACC_1221,Client Entity 221,LATAM,Cybersecurity,2025-06,exec_6@saasplatform.io
+ACC_1222,Client Entity 222,EMEA,Enterprise AI,2025-01,exec_7@saasplatform.io
+ACC_1223,Client Entity 223,EMEA,Cybersecurity,2025-05,exec_8@saasplatform.io
+ACC_1224,Client Entity 224,LATAM,E-Commerce,2025-03,exec_9@saasplatform.io
+ACC_1225,Client Entity 225,North America,HealthTech,2025-02,exec_10@saasplatform.io
+ACC_1226,Client Entity 226,North America,Cybersecurity,2025-02,exec_11@saasplatform.io
+ACC_1227,Client Entity 227,LATAM,E-Commerce,2025-03,exec_12@saasplatform.io
+ACC_1228,Client Entity 228,EMEA,E-Commerce,2025-01,exec_1@saasplatform.io
+ACC_1229,Client Entity 229,EMEA,Cybersecurity,2025-06,exec_2@saasplatform.io
+ACC_1230,Client Entity 230,LATAM,E-Commerce,2025-01,exec_3@saasplatform.io
+ACC_1231,Client Entity 231,LATAM,HealthTech,2025-02,exec_4@saasplatform.io
+ACC_1232,Client Entity 232,North America,Enterprise AI,2025-01,exec_5@saasplatform.io
+ACC_1233,Client Entity 233,EMEA,HealthTech,2025-02,exec_6@saasplatform.io
+ACC_1234,Client Entity 234,North America,Cybersecurity,2025-05,exec_7@saasplatform.io
+ACC_1235,Client Entity 235,North America,FinTech,2025-03,exec_8@saasplatform.io
+ACC_1236,Client Entity 236,North America,E-Commerce,2025-03,exec_9@saasplatform.io
+ACC_1237,Client Entity 237,North America,Cybersecurity,2025-04,exec_10@saasplatform.io
+ACC_1238,Client Entity 238,EMEA,HealthTech,2025-03,exec_11@saasplatform.io
+ACC_1239,Client Entity 239,North America,Cybersecurity,2025-05,exec_12@saasplatform.io
+ACC_1240,Client Entity 240,North America,E-Commerce,2025-05,exec_1@saasplatform.io
+ACC_1241,Client Entity 241,North America,Enterprise AI,2025-02,exec_2@saasplatform.io
+ACC_1242,Client Entity 242,North America,FinTech,2025-06,exec_3@saasplatform.io
+ACC_1243,Client Entity 243,North America,HealthTech,2025-04,exec_4@saasplatform.io
+ACC_1244,Client Entity 244,EMEA,Enterprise AI,2025-01,exec_5@saasplatform.io
+ACC_1245,Client Entity 245,North America,FinTech,2025-03,exec_6@saasplatform.io
+ACC_1246,Client Entity 246,APAC,Cybersecurity,2025-01,exec_7@saasplatform.io
+ACC_1247,Client Entity 247,North America,E-Commerce,2025-05,exec_8@saasplatform.io
+ACC_1248,Client Entity 248,North America,Cybersecurity,2025-01,exec_9@saasplatform.io
+ACC_1249,Client Entity 249,LATAM,HealthTech,2025-05,exec_10@saasplatform.io
+ACC_1250,Client Entity 250,North America,HealthTech,2025-04,exec_11@saasplatform.io
+ACC_1251,Client Entity 251,North America,Cybersecurity,2025-05,exec_12@saasplatform.io
+ACC_1252,Client Entity 252,APAC,Cybersecurity,2025-03,exec_1@saasplatform.io
+ACC_1253,Client Entity 253,North America,HealthTech,2025-04,exec_2@saasplatform.io
+ACC_1254,Client Entity 254,EMEA,FinTech,2025-06,exec_3@saasplatform.io
+ACC_1255,Client Entity 255,North America,FinTech,2025-05,exec_4@saasplatform.io
+ACC_1256,Client Entity 256,North America,HealthTech,2025-01,exec_5@saasplatform.io
+ACC_1257,Client Entity 257,North America,FinTech,2025-06,exec_6@saasplatform.io
+ACC_1258,Client Entity 258,EMEA,E-Commerce,2025-05,exec_7@saasplatform.io
+ACC_1259,Client Entity 259,APAC,Enterprise AI,2025-02,exec_8@saasplatform.io
+ACC_1260,Client Entity 260,North America,HealthTech,2025-02,exec_9@saasplatform.io
+ACC_1261,Client Entity 261,EMEA,HealthTech,2025-01,exec_10@saasplatform.io
+ACC_1262,Client Entity 262,North America,E-Commerce,2025-01,exec_11@saasplatform.io
+ACC_1263,Client Entity 263,EMEA,Cybersecurity,2025-02,exec_12@saasplatform.io
+ACC_1264,Client Entity 264,LATAM,Enterprise AI,2025-03,exec_1@saasplatform.io
+ACC_1265,Client Entity 265,North America,Enterprise AI,2025-01,exec_2@saasplatform.io
+ACC_1266,Client Entity 266,North America,E-Commerce,2025-06,exec_3@saasplatform.io
+ACC_1267,Client Entity 267,North America,FinTech,2025-06,exec_4@saasplatform.io
+ACC_1268,Client Entity 268,EMEA,Enterprise AI,2025-03,exec_5@saasplatform.io
+ACC_1269,Client Entity 269,LATAM,HealthTech,2025-04,exec_6@saasplatform.io
+ACC_1270,Client Entity 270,LATAM,E-Commerce,2025-04,exec_7@saasplatform.io
+ACC_1271,Client Entity 271,LATAM,Cybersecurity,2025-06,exec_8@saasplatform.io
+ACC_1272,Client Entity 272,LATAM,Cybersecurity,2025-06,exec_9@saasplatform.io
+ACC_1273,Client Entity 273,North America,E-Commerce,2025-02,exec_10@saasplatform.io
+ACC_1274,Client Entity 274,North America,E-Commerce,2025-05,exec_11@saasplatform.io
+ACC_1275,Client Entity 275,North America,E-Commerce,2025-03,exec_12@saasplatform.io
+ACC_1276,Client Entity 276,EMEA,FinTech,2025-01,exec_1@saasplatform.io
+ACC_1277,Client Entity 277,APAC,Enterprise AI,2025-02,exec_2@saasplatform.io
+ACC_1278,Client Entity 278,North America,E-Commerce,2025-06,exec_3@saasplatform.io
+ACC_1279,Client Entity 279,EMEA,FinTech,2025-05,exec_4@saasplatform.io
+ACC_1280,Client Entity 280,North America,HealthTech,2025-06,exec_5@saasplatform.io
+ACC_1281,Client Entity 281,North America,E-Commerce,2025-05,exec_6@saasplatform.io
+ACC_1282,Client Entity 282,North America,HealthTech,2025-02,exec_7@saasplatform.io
+ACC_1283,Client Entity 283,North America,Enterprise AI,2025-04,exec_8@saasplatform.io
+ACC_1284,Client Entity 284,APAC,Cybersecurity,2025-01,exec_9@saasplatform.io
+ACC_1285,Client Entity 285,EMEA,FinTech,2025-06,exec_10@saasplatform.io
+ACC_1286,Client Entity 286,APAC,E-Commerce,2025-05,exec_11@saasplatform.io
+ACC_1287,Client Entity 287,North America,Cybersecurity,2025-02,exec_12@saasplatform.io
+ACC_1288,Client Entity 288,North America,Cybersecurity,2025-01,exec_1@saasplatform.io
+ACC_1289,Client Entity 289,LATAM,E-Commerce,2025-03,exec_2@saasplatform.io
+ACC_1290,Client Entity 290,North America,FinTech,2025-05,exec_3@saasplatform.io
+ACC_1291,Client Entity 291,North America,Cybersecurity,2025-05,exec_4@saasplatform.io
+ACC_1292,Client Entity 292,North America,Cybersecurity,2025-05,exec_5@saasplatform.io
+ACC_1293,Client Entity 293,EMEA,E-Commerce,2025-03,exec_6@saasplatform.io
+ACC_1294,Client Entity 294,APAC,FinTech,2025-01,exec_7@saasplatform.io
+ACC_1295,Client Entity 295,APAC,Cybersecurity,2025-02,exec_8@saasplatform.io
+ACC_1296,Client Entity 296,North America,FinTech,2025-05,exec_9@saasplatform.io
+ACC_1297,Client Entity 297,North America,HealthTech,2025-01,exec_10@saasplatform.io
+ACC_1298,Client Entity 298,North America,Cybersecurity,2025-06,exec_11@saasplatform.io
+ACC_1299,Client Entity 299,EMEA,Cybersecurity,2025-03,exec_12@saasplatform.io
+ACC_1300,Client Entity 300,North America,E-Commerce,2025-03,exec_1@saasplatform.io
+ACC_1301,Client Entity 301,EMEA,Cybersecurity,2025-05,exec_2@saasplatform.io
+ACC_1302,Client Entity 302,LATAM,FinTech,2025-04,exec_3@saasplatform.io
+ACC_1303,Client Entity 303,APAC,Cybersecurity,2025-01,exec_4@saasplatform.io
+ACC_1304,Client Entity 304,North America,HealthTech,2025-01,exec_5@saasplatform.io
+ACC_1305,Client Entity 305,EMEA,HealthTech,2025-02,exec_6@saasplatform.io
+ACC_1306,Client Entity 306,North America,Enterprise AI,2025-01,exec_7@saasplatform.io
+ACC_1307,Client Entity 307,EMEA,E-Commerce,2025-04,exec_8@saasplatform.io
+ACC_1308,Client Entity 308,EMEA,Enterprise AI,2025-05,exec_9@saasplatform.io
+ACC_1309,Client Entity 309,APAC,HealthTech,2025-04,exec_10@saasplatform.io
+ACC_1310,Client Entity 310,EMEA,Cybersecurity,2025-03,exec_11@saasplatform.io
+ACC_1311,Client Entity 311,EMEA,Cybersecurity,2025-04,exec_12@saasplatform.io
+ACC_1312,Client Entity 312,North America,Cybersecurity,2025-03,exec_1@saasplatform.io
+ACC_1313,Client Entity 313,LATAM,HealthTech,2025-06,exec_2@saasplatform.io
+ACC_1314,Client Entity 314,EMEA,HealthTech,2025-06,exec_3@saasplatform.io
+ACC_1315,Client Entity 315,North America,HealthTech,2025-05,exec_4@saasplatform.io
+ACC_1316,Client Entity 316,North America,E-Commerce,2025-01,exec_5@saasplatform.io
+ACC_1317,Client Entity 317,LATAM,E-Commerce,2025-03,exec_6@saasplatform.io
+ACC_1318,Client Entity 318,APAC,Enterprise AI,2025-04,exec_7@saasplatform.io
+ACC_1319,Client Entity 319,APAC,HealthTech,2025-02,exec_8@saasplatform.io
+ACC_1320,Client Entity 320,EMEA,Enterprise AI,2025-01,exec_9@saasplatform.io
+ACC_1321,Client Entity 321,LATAM,Cybersecurity,2025-06,exec_10@saasplatform.io
+ACC_1322,Client Entity 322,North America,Enterprise AI,2025-01,exec_11@saasplatform.io
+ACC_1323,Client Entity 323,APAC,FinTech,2025-02,exec_12@saasplatform.io
+ACC_1324,Client Entity 324,APAC,Cybersecurity,2025-01,exec_1@saasplatform.io
+ACC_1325,Client Entity 325,North America,Enterprise AI,2025-05,exec_2@saasplatform.io
+ACC_1326,Client Entity 326,North America,FinTech,2025-01,exec_3@saasplatform.io
+ACC_1327,Client Entity 327,EMEA,Cybersecurity,2025-05,exec_4@saasplatform.io
+ACC_1328,Client Entity 328,EMEA,Cybersecurity,2025-04,exec_5@saasplatform.io
+ACC_1329,Client Entity 329,North America,HealthTech,2025-06,exec_6@saasplatform.io
+ACC_1330,Client Entity 330,APAC,FinTech,2025-03,exec_7@saasplatform.io
+ACC_1331,Client Entity 331,North America,Cybersecurity,2025-03,exec_8@saasplatform.io
+ACC_1332,Client Entity 332,North America,FinTech,2025-03,exec_9@saasplatform.io
+ACC_1333,Client Entity 333,EMEA,FinTech,2025-04,exec_10@saasplatform.io
+ACC_1334,Client Entity 334,APAC,Cybersecurity,2025-01,exec_11@saasplatform.io
+ACC_1335,Client Entity 335,North America,HealthTech,2025-06,exec_12@saasplatform.io
+ACC_1336,Client Entity 336,EMEA,FinTech,2025-05,exec_1@saasplatform.io
+ACC_1337,Client Entity 337,EMEA,E-Commerce,2025-04,exec_2@saasplatform.io
+ACC_1338,Client Entity 338,APAC,Enterprise AI,2025-06,exec_3@saasplatform.io
+ACC_1339,Client Entity 339,North America,Enterprise AI,2025-01,exec_4@saasplatform.io
+ACC_1340,Client Entity 340,APAC,Cybersecurity,2025-06,exec_5@saasplatform.io
+ACC_1341,Client Entity 341,North America,Enterprise AI,2025-03,exec_6@saasplatform.io
+ACC_1342,Client Entity 342,North America,Cybersecurity,2025-01,exec_7@saasplatform.io
+ACC_1343,Client Entity 343,North America,Cybersecurity,2025-02,exec_8@saasplatform.io
+ACC_1344,Client Entity 344,EMEA,E-Commerce,2025-02,exec_9@saasplatform.io
+ACC_1345,Client Entity 345,EMEA,Cybersecurity,2025-01,exec_10@saasplatform.io
+ACC_1346,Client Entity 346,North America,Enterprise AI,2025-04,exec_11@saasplatform.io
+ACC_1347,Client Entity 347,North America,HealthTech,2025-03,exec_12@saasplatform.io
+ACC_1348,Client Entity 348,EMEA,E-Commerce,2025-03,exec_1@saasplatform.io
+ACC_1349,Client Entity 349,North America,E-Commerce,2025-01,exec_2@saasplatform.io
+ACC_1350,Client Entity 350,APAC,FinTech,2025-02,exec_3@saasplatform.io
+ACC_1351,Client Entity 351,North America,Cybersecurity,2025-01,exec_4@saasplatform.io
+ACC_1352,Client Entity 352,EMEA,FinTech,2025-05,exec_5@saasplatform.io
+ACC_1353,Client Entity 353,North America,FinTech,2025-05,exec_6@saasplatform.io
+ACC_1354,Client Entity 354,North America,HealthTech,2025-04,exec_7@saasplatform.io
+ACC_1355,Client Entity 355,North America,Cybersecurity,2025-03,exec_8@saasplatform.io
+ACC_1356,Client Entity 356,LATAM,Enterprise AI,2025-04,exec_9@saasplatform.io
+ACC_1357,Client Entity 357,North America,HealthTech,2025-06,exec_10@saasplatform.io
+ACC_1358,Client Entity 358,North America,Enterprise AI,2025-02,exec_11@saasplatform.io
+ACC_1359,Client Entity 359,North America,Cybersecurity,2025-03,exec_12@saasplatform.io
+ACC_1360,Client Entity 360,EMEA,HealthTech,2025-04,exec_1@saasplatform.io
+ACC_1361,Client Entity 361,LATAM,Enterprise AI,2025-02,exec_2@saasplatform.io
+ACC_1362,Client Entity 362,North America,HealthTech,2025-04,exec_3@saasplatform.io
+ACC_1363,Client Entity 363,EMEA,E-Commerce,2025-03,exec_4@saasplatform.io
+ACC_1364,Client Entity 364,EMEA,FinTech,2025-04,exec_5@saasplatform.io
+ACC_1365,Client Entity 365,APAC,Cybersecurity,2025-02,exec_6@saasplatform.io
+ACC_1366,Client Entity 366,LATAM,E-Commerce,2025-04,exec_7@saasplatform.io
+ACC_1367,Client Entity 367,APAC,Cybersecurity,2025-01,exec_8@saasplatform.io
+ACC_1368,Client Entity 368,EMEA,FinTech,2025-06,exec_9@saasplatform.io
+ACC_1369,Client Entity 369,North America,FinTech,2025-02,exec_10@saasplatform.io
+ACC_1370,Client Entity 370,EMEA,FinTech,2025-02,exec_11@saasplatform.io
+ACC_1371,Client Entity 371,EMEA,E-Commerce,2025-06,exec_12@saasplatform.io
+ACC_1372,Client Entity 372,EMEA,Enterprise AI,2025-02,exec_1@saasplatform.io
+ACC_1373,Client Entity 373,North America,Cybersecurity,2025-02,exec_2@saasplatform.io
+ACC_1374,Client Entity 374,LATAM,Enterprise AI,2025-06,exec_3@saasplatform.io
+ACC_1375,Client Entity 375,EMEA,HealthTech,2025-02,exec_4@saasplatform.io
+ACC_1376,Client Entity 376,EMEA,HealthTech,2025-01,exec_5@saasplatform.io
+ACC_1377,Client Entity 377,North America,HealthTech,2025-04,exec_6@saasplatform.io
+ACC_1378,Client Entity 378,North America,FinTech,2025-06,exec_7@saasplatform.io
+ACC_1379,Client Entity 379,APAC,HealthTech,2025-06,exec_8@saasplatform.io
+ACC_1380,Client Entity 380,EMEA,Enterprise AI,2025-04,exec_9@saasplatform.io
+ACC_1381,Client Entity 381,LATAM,HealthTech,2025-02,exec_10@saasplatform.io
+ACC_1382,Client Entity 382,North America,HealthTech,2025-05,exec_11@saasplatform.io
+ACC_1383,Client Entity 383,North America,E-Commerce,2025-06,exec_12@saasplatform.io
+ACC_1384,Client Entity 384,APAC,Cybersecurity,2025-06,exec_1@saasplatform.io
+ACC_1385,Client Entity 385,EMEA,HealthTech,2025-05,exec_2@saasplatform.io
+ACC_1386,Client Entity 386,North America,Cybersecurity,2025-05,exec_3@saasplatform.io
+ACC_1387,Client Entity 387,APAC,Cybersecurity,2025-04,exec_4@saasplatform.io
+ACC_1388,Client Entity 388,EMEA,Enterprise AI,2025-06,exec_5@saasplatform.io
+ACC_1389,Client Entity 389,North America,E-Commerce,2025-01,exec_6@saasplatform.io
+ACC_1390,Client Entity 390,EMEA,Cybersecurity,2025-03,exec_7@saasplatform.io
+ACC_1391,Client Entity 391,EMEA,Enterprise AI,2025-01,exec_8@saasplatform.io
+ACC_1392,Client Entity 392,North America,HealthTech,2025-03,exec_9@saasplatform.io
+ACC_1393,Client Entity 393,North America,FinTech,2025-02,exec_10@saasplatform.io
+ACC_1394,Client Entity 394,EMEA,Enterprise AI,2025-01,exec_11@saasplatform.io
+ACC_1395,Client Entity 395,EMEA,FinTech,2025-03,exec_12@saasplatform.io
+ACC_1396,Client Entity 396,APAC,Enterprise AI,2025-03,exec_1@saasplatform.io
+ACC_1397,Client Entity 397,APAC,HealthTech,2025-04,exec_2@saasplatform.io
+ACC_1398,Client Entity 398,North America,E-Commerce,2025-04,exec_3@saasplatform.io
+ACC_1399,Client Entity 399,LATAM,Enterprise AI,2025-03,exec_4@saasplatform.io
+ACC_1400,Client Entity 400,LATAM,FinTech,2025-01,exec_5@saasplatform.io

@@ -1,0 +1,4 @@
+﻿dashboard_view.html linguist-detectable=false
+*.tmdl linguist-detectable=true
+*.dax linguist-detectable=true
+*.py linguist-detectable=true
