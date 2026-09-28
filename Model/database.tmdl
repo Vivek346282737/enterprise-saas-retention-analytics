@@ -1,0 +1,30 @@
+﻿database 'Enterprise_SaaS_Retention_Platform'
+compatibilityLevel: 1600
+
+model Model
+culture: en-US
+defaultPowerBIDataSourceVersion: powerBI_V3
+
+table Dim_Account
+lineageTag: a091d341-ac42-4f11-9238-1188d22bb123
+column AccountID
+dataType: string
+sourceColumn: AccountID
+column Region
+dataType: string
+sourceColumn: Region
+column AccountExecutive
+dataType: string
+sourceColumn: AccountExecutive
+
+table Fact_SubscriptionLedger
+lineageTag: b128f421-bc55-4e33-8121-7788e11cc345
+column TransactionID
+dataType: string
+sourceColumn: TransactionID
+column MonthlyRecurringRevenue
+dataType: decimal
+sourceColumn: MonthlyRecurringRevenue
+column AnnualRecurringRevenue
+dataType: decimal
+sourceColumn: AnnualRecurringRevenue
